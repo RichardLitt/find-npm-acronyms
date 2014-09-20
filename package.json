@@ -1,0 +1,26 @@
+{
+  "name": "find-npm-backronyms",
+  "version": "0.0.0",
+  "description": "find-npm-backronyms",
+  "main": "index.js",
+  "dependencies": {
+    "fyodor": "^1.0.0",
+    "natural": "^0.1.28",
+    "natural-gutenberg": "^1.0.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/RichardLitt/find-npm-acronyms"
+  },
+  "author": "Richard Littauer <richard.littauer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/find-npm-acronyms/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/find-npm-acronyms"
+}
