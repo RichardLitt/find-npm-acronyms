@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "fyodor": "^1.0.0",
-    "natural": "^0.1.28",
+    "natural": "^0.5.4",
     "natural-gutenberg": "^1.0.0",
     "underscore": "^1.7.0"
   },
